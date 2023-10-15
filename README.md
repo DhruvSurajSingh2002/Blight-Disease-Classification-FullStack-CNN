@@ -8,7 +8,7 @@ These diseases can have significant effects on agriculture, ecosystems, and even
 
 
 Check out the website!! https://blight-disease-classification.pages.dev/
-# Technology stack for the project:
+## Technology stack for the project:
 ## Kaggle 
 For the data set
 ## Frontend 
