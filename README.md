@@ -7,7 +7,7 @@ Blight diseases, which affect plants, trees, and crops, are caused by various pa
 These diseases can have significant effects on agriculture, ecosystems, and even human population.
 
 Technology stack for the project,
-
+Check out the website!! https://blight-disease-classification.pages.dev/
 
 ## Frontend 
 React Js used for the creating the website application.
