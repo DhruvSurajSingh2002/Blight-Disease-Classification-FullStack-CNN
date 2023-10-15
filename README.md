@@ -1,6 +1,6 @@
 # Blight-Disease-Classification-FullStack
 
-## Full stack Deep Learning Project 
+## Full stack Deep Learning Project Using Convolution Neural Network
 
 This project is built for blight disease classification.
 Blight diseases, which affect plants, trees, and crops, are caused by various pathogens such as bacteria, fungi, or oomycetes. 
@@ -9,6 +9,7 @@ These diseases can have significant effects on agriculture, ecosystems, and even
 
 Check out the website!! https://blight-disease-classification.pages.dev/
 ## Technology stack for the project:
+## CNN
 ## Kaggle 
 For the data set
 ## Frontend 
