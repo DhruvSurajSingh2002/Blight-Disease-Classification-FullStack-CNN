@@ -9,6 +9,8 @@ These diseases can have significant effects on agriculture, ecosystems, and even
 
 Check out the website!! https://blight-disease-classification.pages.dev/
 Technology stack for the project:
+## Kaggle 
+For the data set
 ## Frontend 
 React Js used for the creating the website application.
 Website link:https://blight-disease-classification.pages.dev/
